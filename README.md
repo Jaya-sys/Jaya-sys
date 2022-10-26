@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaya-sys
-- 👀 I’m interested in Development
+- 👀 I’m interested in Open Source
 - 🌱 I’m currently learning Node Js and React
 - 💞️ I’m looking to collaborate on Open Source Project
 
